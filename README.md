@@ -17,3 +17,4 @@ This repo serves as a public record of my verified achievements and showcases my
 
 ## Files
 All certificates are stored in PDF/Image format inside this repository for easy verification.
+1. Certificate of Participation.pdf
